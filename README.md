@@ -1,4 +1,8 @@
 
+2018-2019 yılı Güz dönemi arşivi: https://github.com/asenturk/eem465_18-19_Guz
+
+---
+
 * Derste kullanılacak cihaz: [STM32 F4 Discovery](https://www.st.com/en/evaluation-tools/stm32f4discovery.html) 
 * Programlar [Keil µVision® IDE](http://www2.keil.com/mdk5/uvision/) geliştirme programını kullanılarak yazılacaktır.
   * Download için https://www.keil.com/demo/eval/arm.htm sayfasına bilgilerinizin girilmesi gerekmektedir. 
