@@ -1,3 +1,8 @@
+**Duyuru: Ders Saati Değişimi** (21.02.2019)   
+1. Öğretim dersleri saat 10:30'da başlayacaktır.
+
+---   
+
 Kaynaklar:   
 - [RM0090 Reference Manual](https://www.st.com/content/ccc/resource/technical/document/reference_manual/3d/6d/5a/66/b4/99/40/d4/DM00031020.pdf/files/DM00031020.pdf/jcr:content/translations/en.DM00031020.pdf)
 - [Datasheet STM32F405xx STM32F407xx dm00037051](https://www.st.com/resource/en/datasheet/dm00037051.pdf)
