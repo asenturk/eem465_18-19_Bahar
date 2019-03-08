@@ -1,3 +1,19 @@
+**Ödev 1** (08.03.2019)   
+Ödev formatı, Örnek Ödev ve Ödev 1 eklenmiştir.   
+https://github.com/asenturk/eem465/tree/master/odevler
+
+Lütfen ödev formatını ve örnek ödevi inceleyerek ödevinizi yapınız.  
+Yapılan ödev arasınava ek puan olarak eklenecektir.  
+Ödev gönderme için son tarih 14 Mayıs 2019 Perşembedir.   
+
+Birden fazla ödev göndermişseniz en son gönderdiğiniz değerlendirilecektir.
+
+Ödev Gönrderme Sayfası:   
+https://goo.gl/forms/d415ePc79JNLJEwe2   
+
+---   
+
+
 **Duyuru: Ders Saati Değişimi** (21.02.2019)   
 1. Öğretim dersleri saat 10:30'da başlayacaktır.
 
