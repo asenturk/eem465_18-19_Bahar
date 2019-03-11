@@ -4,7 +4,7 @@ https://github.com/asenturk/eem465/tree/master/odevler
 
 Lütfen ödev formatını ve örnek ödevi inceleyerek ödevinizi yapınız.  
 Yapılan ödev arasınava ek puan olarak eklenecektir.  
-Ödev gönderme için son tarih 14 Mayıs 2019 Perşembedir.   
+Ödev gönderme için son tarih 16 Mart 2019 Cumartesidir.(Güncellendi.)   
 
 Birden fazla ödev göndermişseniz en son gönderdiğiniz değerlendirilecektir.
 
