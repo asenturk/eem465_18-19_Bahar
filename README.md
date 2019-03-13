@@ -1,5 +1,7 @@
 **Ödev 2** (13.03.2019)   
-Ödev 2 eklenmiştir.   
+Ödev 2 eklenmiştir.  
+https://github.com/asenturk/eem465/tree/master/odevler   
+
 Son gönderme tarihi 21 Mart 2019 Perşembedir.
 
 Ödev Gönrderme Sayfası:   
