@@ -1,3 +1,13 @@
+**Arasınav** (22.03.2019)   
+- Sınavda 4 soru çıkacak ve süre 65 dakikadır.  
+- Özellikle son slaytın konularına iyi çalışmanızı tavsiye ederim.  
+- Ayrıca Buton ve Led programlamalarına,   
+- Programlamaları yapabilmek için gerekli olan kod parçalarına çalışın. 
+- Yoklama listesi geldiğinde listede kaçıncı sıradaysanız bakıp soru kağıdına yoklama sıranızı yazmanız gerekiyor. 
+
+
+
+---   
 **Ödev 2** (13.03.2019)   
 Ödev 2 eklenmiştir.  
 https://github.com/asenturk/eem465/tree/master/odevler   
