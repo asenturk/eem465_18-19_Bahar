@@ -2,6 +2,7 @@
 Arasınav notlarınıza [notlar](./notlar) klasöründen ulaşabilirsiniz.  
 Kağıtlarınızı 02.04.2019 Salı son gün olmak üzere kontrol ederbilirsiniz.  
 Notlara ödev notları eklenmemiştir.  
+**ÖNEMLİ: Kağıdına bakmak için geldiğinizde örneğin: 1. öğretim 14. sıra deyin.**
 
 ---   
 **Arasınav** (22.03.2019)   
