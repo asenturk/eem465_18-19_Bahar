@@ -1,3 +1,9 @@
+**Arasınav Notlar** (26.03.2019)   
+Arasınav notlarınıza [notlar](./notlar) klasöründen ulaşabilirsiniz.  
+Kağıtlarınızı 02.04.2019 Salı son gün olmak üzere kontrol ederbilirsiniz.  
+Notlara ödev notları eklenmemiştir.  
+
+---   
 **Arasınav** (22.03.2019)   
 - Sınavda 4 soru çıkacak ve süre 65 dakikadır.  
 - Özellikle son slaytın konularına iyi çalışmanızı tavsiye ederim.  
