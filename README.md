@@ -1,3 +1,14 @@
+**Ödev 3** (18.04.2019)   
+Ödev 3 [Ödevler](./odevler/) klasörüne eklenmiştir.   
+Ödev son gönderim tarihi 27 Nisan 2019 Cumartesidir.
+Ödev Gönrderme Sayfası:   
+https://goo.gl/forms/d415ePc79JNLJEwe2 
+
+Ödev formatına uygun olarak hazırlanmayan ödev değerlendirilecektir.
+
+---   
+
+
 **Arasınav Notlar** (26.03.2019)   
 Arasınav notlarınıza [notlar](./notlar) klasöründen ulaşabilirsiniz.  
 Kağıtlarınızı 02.04.2019 Salı son gün olmak üzere kontrol ederbilirsiniz.  
@@ -24,7 +35,7 @@ Son gönderme tarihi 21 Mart 2019 Perşembedir.
 Ödev Gönrderme Sayfası:   
 https://goo.gl/forms/d415ePc79JNLJEwe2 
 
-Öev formatına uygun olarak hazırlanmayan ödev değerlendirilecektir.
+Ödev formatına uygun olarak hazırlanmayan ödev değerlendirilecektir.
 
 ---   
 
