@@ -7,7 +7,7 @@ https://goo.gl/forms/d415ePc79JNLJEwe2
 Ödev formatına uygun olarak hazırlanmayan ödev değerlendirilmeyecektir.
 
 ---   
-**Dönem Projeleri** (18.04.2019) 
+**Dönem Projeleri** (18.04.2019)   
 Dönem projesi konusunu belirlemek için son tarih 2 Mayıs 2019 Perşembedir.   
 
 Proje konuları için onay almanız gerekmektedir.   Dolayısıyla proje konunuzun kabul edilmemesi ihtimalinden dolayı belirtilen tarihten önce  proje konusunu belirlemeniz faydanıza olacaktır. 
@@ -22,18 +22,17 @@ Projenin raporu en geç 16 Mayıs 2019 Perşembe günü yüklenecektir. Bu tarih
 
 Projeler 20 ve 27 Mayıs 2019 tarihlerinde başlayan haftalarda sunulacaktır.
 
-Projeler derste anlatılan programlama yöntemiyla yapılacaktır. Diğer kütüphaneler kullanılarak yapılan ödevler kesinlikle kabul edilmeyecektir.
+Projeler derste anlatılan programlama yöntemiyle yapılacaktır. Diğer kütüphaneler kullanılarak yapılan ödevler kesinlikle kabul edilmeyecektir.
 
 Projeler grup halinde yapılmayacaktır. Bireysel olacaktır.
 
 Projeler birbirinden farklı olacaktır.
 
-Proje konusunu mail ile göndererek veya yüzyüze görüşerek oanylatabilirsiniz. Onaylanan proje konularını aşağıdaki adreste bulunan forma eklemeniz gerekmektedir.   
+Proje konusunu eposta ile göndererek veya yüzyüze görüşerek onaylatabilirsiniz. Onaylanan proje konularını aşağıdaki adreste bulunan forma eklemeniz gerekmektedir.   Epostaları  gmail hesabıma gönderebilirsiniz. (asntrk@gmail)
 https://forms.gle/1Ct5oh1iDF2yDZk49
 
-Epostaları gmail hesabıma gönderebilirsiniz. (asntrk@gmail)
 
-İşyeri eğitiminde olanlar projelerini en geç dersin final sınavı olduğu gün sunabilirler.
+İşyeri eğitiminde olanlar projelerini en geç dersin final sınavı olduğu gün sunabilirler. Bu tarihten sonra proje sunumu kabul edilmeyecektir.
 
 --- 
 
