@@ -4,7 +4,7 @@
 Ödev Gönrderme Sayfası:   
 https://goo.gl/forms/d415ePc79JNLJEwe2 
 
-Ödev formatına uygun olarak hazırlanmayan ödev değerlendirilecektir.
+Ödev formatına uygun olarak hazırlanmayan ödev değerlendirilmeyecektir.
 
 ---   
 
@@ -35,7 +35,7 @@ Son gönderme tarihi 21 Mart 2019 Perşembedir.
 Ödev Gönrderme Sayfası:   
 https://goo.gl/forms/d415ePc79JNLJEwe2 
 
-Ödev formatına uygun olarak hazırlanmayan ödev değerlendirilecektir.
+Ödev formatına uygun olarak hazırlanmayan ödev değerlendirilmeyecektir.
 
 ---   
 
