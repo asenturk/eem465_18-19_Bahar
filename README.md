@@ -1,3 +1,14 @@
+**Ödev 5** (08.05.2019)   
+Ödev 5 [Ödevler](./odevler/) klasörüne eklenmiştir.   
+Ödev son gönderim tarihi 23 Mayıs 2019 Perşembedir.
+Ödev Gönderme Sayfası:   
+https://goo.gl/forms/d415ePc79JNLJEwe2 
+
+Ödev formatına uygun olarak hazırlanmayan ödev değerlendirilmeyecektir.
+
+---
+
+
 **Ödev 4** (06.05.2019)   
 Ödev 4 [Ödevler](./odevler/) klasörüne eklenmiştir.   
 Ödev son gönderim tarihi 13 Mayıs 2019 Pazartesidir.
