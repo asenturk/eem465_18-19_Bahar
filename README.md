@@ -1,3 +1,12 @@
+**Tavsiye Youtube Kanalı ve Blog** (09.05.2019)   
+
+https://www.youtube.com/user/sdf3e33/videos
+
+https://www.edwinfairchild.com
+
+---   
+
+
 **Ödev 5** (08.05.2019)   
 Ödev 5 [Ödevler](./odevler/) klasörüne eklenmiştir.   
 Ödev son gönderim tarihi 23 Mayıs 2019 Perşembedir.
