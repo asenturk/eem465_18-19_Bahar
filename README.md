@@ -1,8 +1,10 @@
-**Tavsiye Youtube Kanalı ve Blog** (09.05.2019)   
+**Tavsiye İnternet Kaynakları** (09.05.2019)   
 
 https://www.youtube.com/user/sdf3e33/videos
 
 https://www.edwinfairchild.com
+
+https://www.youtube.com/user/anajonesr/videos
 
 ---   
 
