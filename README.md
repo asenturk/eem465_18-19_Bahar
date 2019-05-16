@@ -3,10 +3,9 @@ Proje rapor formatı [Proje](./proje/) klasörüne eklenmiştir. Rapor formatın
 
 Projelerin sunumları  27.05.2019 Pazartesi ve 29.05.2019 Çarşamba günleri yapılacaktır.
 
-
-Proje rapor yükleme sayfası: 
-
+Proje rapor yükleme sayfası:    
 https://forms.gle/1Ct5oh1iDF2yDZk49
+
 ---   
 
 
