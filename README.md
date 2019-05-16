@@ -1,3 +1,16 @@
+**Proje Raporu** (16.05.2019)   
+Proje rapor formatı [Proje](./proje/) klasörüne eklenmiştir. Rapor formatının siteye yüklenmesi geciktiği için raporların son yükleme tarihi 18.05.2019 Cumartesi olarak güncellenmiştir.
+
+Projelerin sunumları  27.05.2019 Pazartesi ve 29.05.2019 Çarşamba günleri yapılacaktır.
+
+
+Proje rapor yükleme sayfası: 
+
+https://forms.gle/1Ct5oh1iDF2yDZk49
+---   
+
+
+
 **Tavsiye İnternet Kaynakları** (09.05.2019)   
 
 https://www.youtube.com/user/sdf3e33/videos
