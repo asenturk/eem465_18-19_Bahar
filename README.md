@@ -1,3 +1,15 @@
+**Final Sınavı** (02.06.2019)   
+Final sınavında 4 soru bulunmaktadır.  Süre 65 dakikadır.   
+Yoklama listesi geldiğinde listede kaçıncı sırada olduğunuza bakıp sınav kağıdına yazmanız gerekiyor.   
+Sınavda ADC, Timer, USART, Interrrupt konuları çıkacaktır. Sınav sorularını çözmek için, bu konuların mantığını anlamanız   gerekmektedir.   
+
+Sınavda A4 kağıdının 1/4'ü büyüklüğünde hatılatma kağıdı kullanabilirsiniz. Bu hatırlatma kağıdına istediğiniz bilgi ve/veya kodlamayı yazabilirsiniz.
+
+Hatırlatma kağıtları sadece el yazması olabilir. Fotokopi, bilgisayar çıktısı olamaz. Sınav esnasında paylaşılamaz.  
+
+
+---
+
 **Proje Raporu** (16.05.2019)   
 Proje rapor formatı [Proje](./proje/) klasörüne eklenmiştir. Rapor formatının siteye yüklenmesi geciktiği için raporların son yükleme tarihi 18.05.2019 Cumartesi olarak güncellenmiştir.
 
