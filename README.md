@@ -1,6 +1,5 @@
 **Final Sınavı** (12.06.2019)   
-Final sınavı notlarınıza [Notlar](./notlar/) klasöründen ulaşabilirsiniz.   
-Notlara ödev notları eklenmemiştir.
+
 Sınav kağıtlarınızı 19.16.2019 Çarşamba son gün olmak üzere kontrol edebilirsiniz.   
 
 Sınav kağıdını kontrol için geldiğinizde    
@@ -9,7 +8,8 @@ Sınav kağıdını kontrol için geldiğinizde
 
 Kağıt numaraları notları gördüğünüz listeden okul numaranızın solunda yazan sayıdır.
 
-
+Final sınavı notlarınıza [Notlar](./notlar/) klasöründen ulaşabilirsiniz.   
+Notlara ödev notları eklenmemiştir.
 
 
 ---
