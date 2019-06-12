@@ -1,3 +1,20 @@
+**Final Sınavı** (12.06.2019)   
+Final sınavı notlarınıza [Notlar](./notlar/) klasöründen ulaşabilirsiniz.   
+Notlara ödev notları eklenmemiştir.
+Sınav kağıtlarınızı 19.16.2019 Çarşamba son gün olmak üzere kontrol edebilirsiniz.   
+
+Sınav kağıdını kontrol için geldiğinizde    
+**dersin adı -  öğretim - yoklama sıra numarası**   
+şeklinde söylemeniz gerekmektedir.   
+
+Kağıt numaraları notları gördüğünüz listeden okul numaranızın solunda yazan sayıdır.
+
+
+
+
+---
+
+
 **Final Sınavı** (02.06.2019)   
 Final sınavında 4 soru bulunmaktadır.  Süre 65 dakikadır.   
 Yoklama listesi geldiğinde listede kaçıncı sırada olduğunuza bakıp sınav kağıdına yazmanız gerekiyor.   
