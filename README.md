@@ -1,13 +1,3 @@
-**Kabul edilen ödevler** (18.06.2019)   
-
-Ödevlerin degerlendirmesine [Notlar](./notlar/) klasöründen ulaşabilirsiniz.
-Ödevlerle ilgili herhangi bir soru(nu)nuz var ise  21.06.2019 son gün olmak üzere ofisime gelebilirsiniz.
-
- 
-
-
-
----
 
 
 **Final Sınavı** (12.06.2019)   
