@@ -1,4 +1,14 @@
+**Bütünleme Sınavı** (30.06.2019)   
+Final sınavında 4 soru bulunmaktadır.  Süre 60 dakikadır.   
 
+Sınavda ADC, Timer, USART, Interrrupt konuları çıkacaktır. 
+
+Sınavda A4 kağıdının 1/4'ü büyüklüğünde hatılatma kağıdı kullanabilirsiniz. Bu hatırlatma kağıdına istediğiniz bilgi ve/veya kodlamayı yazabilirsiniz.
+
+Hatırlatma kağıtları sadece el yazması olabilir. Fotokopi, bilgisayar çıktısı olamaz. Sınav esnasında paylaşılamaz.  
+
+
+---
 
 **Final Sınavı** (12.06.2019)   
 
