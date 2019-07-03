@@ -1,3 +1,12 @@
+**Bütünleme Sınavı Notlar** (30.06.2019)   
+Bütünleme sınav sonuçlarına [Notlar](./notlar/) klasöründen ulaşabilirsiniz.   
+Kağıt kontrolü için son tarih 04.07.2019 Perşembedir.   
+
+
+---
+
+
+
 **Bütünleme Sınavı** (30.06.2019)   
 Final sınavında 4 soru bulunmaktadır.  Süre 60 dakikadır.   
 
